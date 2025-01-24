@@ -2,7 +2,7 @@
 All assignments, projects and labs of TIS course 2024/2025
 
 
-| Assignment  | Description  | Reflection |
+| Assignment  | Description   | Reflection |
 | :-----: |  ------ | :-----: | 
 | 1 | Assignment 1 (Poster)  | Reflection 1 <br> The Industry Talk 1  gave me insight into the type of ICT jobs available at Petronas, the technical skills required, and soft skills such as creativity and teamwork. I gained knowledge about the jobs in software engineering and data science and the continuous learning required in this fast-evolving field. I am motivated to continue developing my skills and exploring career paths in ICT. I feel more confident and curious overall about my future in this industry. | 
 | 2 | Assignment 2 (Video)  | Reflection 2 <br>  I learned many important things for myself when we visited UTM DIGITAL. I was amazed by the devices I saw there. There are many servers and networks. I also learned how servers work and how to connect them.           <br> 
