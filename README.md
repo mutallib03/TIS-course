@@ -1,5 +1,5 @@
 # TIS-course
-## Reflections for All assignments,Design Thinking Project and PC assemle of TIS course 2024/2025
+## Reflections for All assignments, Design Thinking Project and PC assemle of TIS course 2024/2025
 
 
 | Assignment  | Description   | Reflection |
